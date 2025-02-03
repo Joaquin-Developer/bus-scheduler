@@ -39,13 +39,6 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- Apache POI para leer archivos Excel -->
-    <dependency>
-      <groupId>org.apache.poi</groupId>
-      <artifactId>poi-ooxml</artifactId>
-      <version>5.2.3</version>
-    </dependency>
-
     <!-- Gson para convertir datos a JSON -->
     <dependency>
       <groupId>com.google.code.gson</groupId>
